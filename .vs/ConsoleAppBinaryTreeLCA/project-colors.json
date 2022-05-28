@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "159d5b91-6c00-489a-b47f-71c69a8767f8": {
+      "ProjectGuid": "159d5b91-6c00-489a-b47f-71c69a8767f8",
+      "DisplayName": "ConsoleAppBinaryTreeLCA",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
