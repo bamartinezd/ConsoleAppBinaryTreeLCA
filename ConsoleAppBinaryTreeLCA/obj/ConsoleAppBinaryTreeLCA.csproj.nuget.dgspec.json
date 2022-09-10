@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alejandro.martnez\\source\\repos\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA.csproj": {}
+    "C:\\repos\\Personal\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alejandro.martnez\\source\\repos\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA.csproj": {
+    "C:\\repos\\Personal\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alejandro.martnez\\source\\repos\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA.csproj",
+        "projectUniqueName": "C:\\repos\\Personal\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA.csproj",
         "projectName": "ConsoleAppBinaryTreeLCA",
-        "projectPath": "C:\\Users\\alejandro.martnez\\source\\repos\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA.csproj",
+        "projectPath": "C:\\repos\\Personal\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA.csproj",
         "packagesPath": "C:\\Users\\alejandro.martnez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alejandro.martnez\\source\\repos\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\obj\\",
+        "outputPath": "C:\\repos\\Personal\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
