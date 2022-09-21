@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Fr3DBqZeAMaW46/SE+G3HGZ+zML2vRy0ozrmkm5m05taEFZwt0eEHQ3x+mmHu3t88u+6k/Tgj5+pm32P7K5/NQ==",
+  "dgSpecHash": "fAO1wvhCVw77ylJr9XynD51nyLSFG4aQRfMZNLMG8XpdYnYZO1A0ZXu7B9qVqHC7ytHJf/YCrTKkR713x/L2Zg==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Personal\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\repos\\personal\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA\\ConsoleAppBinaryTreeLCA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alejandro.martnez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
